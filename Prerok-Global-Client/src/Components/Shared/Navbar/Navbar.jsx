@@ -61,7 +61,8 @@ const Navbar = () => {
 
             <NavLink to={"/customsDocument"} className=" ">
               Customs
-
+            </NavLink>
+            
             <NavLink to={"/userProfile"} className=" ">
               User Profile
             </NavLink>
